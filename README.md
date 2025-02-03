@@ -32,6 +32,6 @@ Este repositorio contiene un estudio basado en **Machine Learning** 🤖 para pr
 ## 💡 **Contribuciones y Contacto**  
 🤝 ¡Las contribuciones son bienvenidas! Puedes abrir un issue o enviar un pull request.  
 
-🔗 **Autor**: [Jesús David Silva Rangelk] | ✉️ Contacto: [jdsr.cuentapersonal@gmail.com]  
+🔗 **Autor**: [Jesús David Silva Rangel] | ✉️ Contacto: [jdsr.cuentapersonal@gmail.com]  
 
 🚀 ¡Explora, aprende y contribuye!
